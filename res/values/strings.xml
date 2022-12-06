@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Quiz Master</string>
+    <string-array name="modes_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="categories_array">
+        <item>Geography</item>
+        <item>History</item>
+        <item>Pop-Culture</item>
+    </string-array>
+
+    <string-array name="geography_array">
+        <item>What was the name of the ancient supercontinent?:Terrestala/!Pangea/Pangula/Gaia</item>
+        <item>How many continents are there?:8/10/!7/6</item>
+        <item>How many countries are there?:183/!195/192/190</item>
+        <item>How many countries are members of the united Nations?:!193/180/62/104</item>
+        <item>How many oceans of the world are there?:!7/11/8/9</item>
+        <item>Which country has the most pyramids in the world?:Egypt/!Sudan/Peru/Mexico</item>
+        <item>Which continent is in all 4 hemispheres?:NA/SA/Asia/!Africa</item>
+        <item>What is the only country that borders the UK?:Algeria/Russia/!Ireland/France</item>
+        <item>90% of the Earth\’s population lives in which hemisphere?:!Northern/Southern/Western/Eastern</item>
+        <item>How many time zones does Australia have?:!3/4/5/2</item>
+        <item>What is The Netherlands also called?:Hollert/Hollend/!Holland/Hobband</item>
+        <item>What is the official currency of India?:Berry/!Rupee/Yen/Euro</item>
+        <item>After Alaska, which U.S. state has the longest coastline?:Mississippi/Texas/California/!Florida</item>
+        <item>What is the least populated U.S. state?:Iowa/Michigan/!Wyoming/Idaho</item>
+        <item>In which U.S. state can the world\’s tallest trees be found?:!California/New York/Oregon/Washington</item>
+    </string-array>
+
+    <string-array name="history_array">
+        <item>What year did the French-Indian War start?:!1754/1763/1712/1745</item>
+        <item>What year did WW1 start?:1918/1912/!1914/1910</item>
+        <item>What year did WW2 start?:1930/1942/1945/!1939</item>
+        <item>What year did the Cold War start?:1970/!1947/1973/1991</item>
+        <item>Who is the most famous king of Macedonia?:Napoleon/!Alexander the Great/Osiris/Philip</item>
+        <item>Which mythology has a god named Pluto?:Roman/Egyptian/!Greek/Mayan</item>
+        <item>who is the Greek god of war?:Pluto/Zeus/Hades/!Ares</item>
+        <item>How many wars did the Carthaginians fight with the Romans?:2/!3/5/1</item>
+        <item>Who was Apollo\'s twin sister?:Hestia/Athena/!Artemis/Demeter</item>
+        <item>who was Zeus\' Wife?:!Hera/Aphrodite/Athena/Artemis</item>
+        <item>Aphrodite was the goddess of what?:Anger and sex/Love and hate/!Love and beauty/Beauty and war</item>
+        <item>How was Athena born?:Hera\'s womb/!Zeus\' head/The ocean/Flowers</item>
+        <item>Icarus flew too close to the what?:!Sun/Moon/Sea/Sand</item>
+        <item>What did Prometheus steal from Zeus to give to the mortals?:Plague/!Fire/Tears/Hate</item>
+        <item>Apollo was the god of what?:The heavens/Warfare/Animals/!The sun</item>
+    </string-array>
+
+    <string-array name="pop_culture_array">
+        <item>Which anime are part of the Big 3?:Demon Slayer,Bleach,Dragon Ball/!Naruto,One Piece,Bleach/Naruto,One Piece,Dragon Ball/One Piece,Bleach,Demon Slayer</item>
+        <item>Who is Stan Lee\'s favorite superhero?:Captain America/Wolverine/!Spider-Man/Hulk</item>
+        <item>Which anime has the best selling manga of all time?:Dragon Ball/!One Piece/Naruto/Demon Slayer</item>
+        <item>Who is the voice actor of Zuko in ATLA?:Zach Eisen/Jack Sena/Crawford Wilson/!Dante Basco</item>
+        <item>Which MCU movie is the highest grossing?:Avengers Infinity War/Spider-Man No Way Home/!Avengers Endgame/Black Panther</item>
+        <item>What is the highest-grossing film of all time?:Avengers Endgame/!Avatar/Titanic/Star Wars The Force Awakens</item>
+        <item>Which guru did Zaheer follow the teachings of in TLOK?:!Laghima/Pathik/Gyatso/Pasang</item>
+        <item>What was the 1st infinity stone Thanos collected in Infinity war?:Power/!Space/Reality/Time</item>
+        <item>What was the 1st pokemon created?:!Rhydon/Bulbasaur/Victini/Pikachu</item>
+        <item>Which manga came 1st?:!Dragon Ball/Naruto/One Piece/Bleach</item>
+        <item>Who plays Thor in the MCU?:Chris Pratt/!Chris Hemsworth/Chris Evans/Chris Pine</item>
+        <item>What year did American Dragon Jake Long come out?:2004/2002/!2005/2008</item>
+        <item>What yar did Adventure Time come out?:!2010/2009/2008/2011</item>
+        <item>What year did Regular Show come out?:2011/2008/2009/!2010</item>
+        <item>Who holds the record for winning the most Oscars?:!Walt Disney/Will Smith/Daniel Day-Lewis/Anthony Hopkins</item>
+    </string-array>
+</resources>
